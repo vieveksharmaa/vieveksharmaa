@@ -75,7 +75,7 @@ Infra         →  Vercel · Docker · Cloudflare · HuggingFace Spaces
 
 **🟢 Open to remote agentic AI & full-stack projects**
 
-[vieveksharmaa@gmail.com](mailto:vieveksharmaa@gmail.com) · [Portfolio](https://your-portfolio-url.com)
+[vieveksharmaa@gmail.com](mailto:vieveksharmaa@gmail.com) · [Portfolio](https://vieveksharmaa.netlify.app/)
 
 *I build agents that work while you sleep.*
 
